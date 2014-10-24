@@ -15,5 +15,4 @@ INDEX VERSION 1.127+C:\Users\Thomas\Documents\4IF\Livraison4IF\.metadata\.plugin
 2486087126.index
 1947431546.index
 828133061.index
-3143666879.index
 1877021558.index

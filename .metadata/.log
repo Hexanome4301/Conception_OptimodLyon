@@ -49,3 +49,23 @@ Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/Jaf270
 	at org.eclipse.jgit.transport.Transport.push(Transport.java:1173)
 	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:156)
 	... 4 more
+
+!ENTRY org.eclipse.equinox.security 1 0 2014-10-24 08:56:18.776
+!MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.egit.core 4 0 2014-10-24 08:58:28.257
+!MESSAGE An exception occurred during push on URI https://github.com/Jaf270/Livraison4IF.git: https://github.com/Jaf270/Livraison4IF.git: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/Jaf270/Livraison4IF.git: not authorized
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:160)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:228)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI.execute(PushOperationUI.java:167)
+	at org.eclipse.egit.ui.internal.push.PushOperationUI$1.run(PushOperationUI.java:229)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/Jaf270/Livraison4IF.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:501)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:399)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:154)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1173)
+	at org.eclipse.jgit.api.PushCommand.call(PushCommand.java:156)
+	... 4 more

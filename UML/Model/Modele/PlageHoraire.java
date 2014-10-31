@@ -26,13 +26,12 @@ public class PlageHoraire {
     /**
      * 
      */
-    private void List <Livraison> demandeLivraison;
+    private void List <DemandeLivraison> demandeLivraison;
 
     /**
      * 
      */
     private void bool dispo;
-
 
     /**
      * 

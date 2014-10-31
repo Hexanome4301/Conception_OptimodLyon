@@ -23,4 +23,9 @@ public class Point {
      */
     private void Integer latitude;
 
+    /**
+     * 
+     */
+    private void int adresse;
+
 }

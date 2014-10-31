@@ -29,11 +29,22 @@ public class Reseau {
     private Map<int>  points  = Point ;
 
 
+    /**
+     * 
+     */
+    public Point reseau;
 
     /**
      * 
      */
     public void chargerReseauXML() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    public void Point getPointViaAdresse() {
         // TODO implement here
     }
 

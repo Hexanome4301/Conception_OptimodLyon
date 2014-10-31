@@ -36,12 +36,22 @@ public class Point {
     /**
      * 
      */
+    public void Reseau reseau;
+
+    /**
+     * 
+     */
     public Set<Troncon> origine;
 
     /**
      * 
      */
     public Set<Troncon> destination;
+
+    /**
+     * 
+     */
+    public Reseau points;
 
 
 }

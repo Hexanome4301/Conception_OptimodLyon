@@ -3,7 +3,7 @@ package Vue;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class VueTroncon {
 
@@ -16,7 +16,7 @@ public class VueTroncon {
     /**
      * 
      */
-    public void dessinerTroncon() {
+    private void void dessinerTroncon() {
         // TODO implement here
     }
 

@@ -3,7 +3,7 @@ package Modele;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class Reseau {
 
@@ -16,12 +16,12 @@ public class Reseau {
     /**
      * 
      */
-    public void List <Troncon> troncons;
+    private void List <Troncon> troncons;
 
     /**
      * 
      */
-    public void Entrepot entrepot;
+    private void Entrepot entrepot;
 
 
 

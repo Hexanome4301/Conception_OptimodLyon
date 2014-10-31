@@ -3,7 +3,7 @@ package Modele;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class Journee {
 
@@ -16,13 +16,13 @@ public class Journee {
     /**
      * 
      */
-    public void List <Tournee> tournees;
+    private void List <Tournee> tournees;
 
 
     /**
      * 
      */
-    public void ajouterTournee() {
+    private void void ajouterTournee() {
         // TODO implement here
     }
 

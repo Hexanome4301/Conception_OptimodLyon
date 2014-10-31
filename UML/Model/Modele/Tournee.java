@@ -3,7 +3,7 @@ package Modele;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class Tournee {
 
@@ -16,40 +16,54 @@ public class Tournee {
     /**
      * 
      */
-    public void List <Itineraire> itineraires;
+    private void List <Itineraire> itineraires;
 
     /**
      * 
      */
-    public void List <PlageHoraire> plagesHoraires;
+    private void List <PlageHoraire> plagesHoraires;
 
 
 
     /**
      * 
      */
-    public void ajouterItineraire() {
+    private void bool ajouterItineraire() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void supprimerItineraire() {
+    private void bool supprimerItineraire() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void ajouterPlageHoraire() {
+    private void bool ajouterPlageHoraire() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void supprimerPlageHoraire() {
+    private void bool supprimerPlageHoraire() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    private void void calculerTournee() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    public void PlageHoraire getPlageHoraireByHeureDebut() {
         // TODO implement here
     }
 

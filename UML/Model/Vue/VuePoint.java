@@ -3,7 +3,7 @@ package Vue;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class VuePoint {
 
@@ -16,12 +16,21 @@ public class VuePoint {
     /**
      * 
      */
-    public void isEntrepot;
+    private void void dessinerPoint() {
+        // TODO implement here
+    }
 
     /**
      * 
      */
-    public void dessinerPoint() {
+    private void void colorierPoint() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    private void void update() {
         // TODO implement here
     }
 

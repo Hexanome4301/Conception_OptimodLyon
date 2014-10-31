@@ -3,7 +3,7 @@ package Modele;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class PlageHoraire {
 
@@ -16,35 +16,42 @@ public class PlageHoraire {
     /**
      * 
      */
-    public void Calendar debut;
+    private void Calendar debut;
 
     /**
      * 
      */
-    public void Calendar fin;
+    private void Calendar fin;
 
     /**
      * 
      */
-    public void List <Livraison> demandeLivraison;
+    private void List <Livraison> demandeLivraison;
 
     /**
      * 
      */
-    public void Attribute1;
+    private void bool dispo;
 
 
     /**
      * 
      */
-    public void ajouterDemandeLivraison() {
+    private void bool ajouterDemandeLivraison() {
         // TODO implement here
     }
 
     /**
      * 
      */
-    public void supprimerDemandeLivraison() {
+    private void bool supprimerDemandeLivraison() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    public void void verifierDisponibilite() {
         // TODO implement here
     }
 

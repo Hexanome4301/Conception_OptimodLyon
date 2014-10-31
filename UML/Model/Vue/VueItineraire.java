@@ -3,7 +3,7 @@ package Vue;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class VueItineraire {
 
@@ -16,7 +16,7 @@ public class VueItineraire {
     /**
      * 
      */
-    public void dessinerItineraire() {
+    private void void dessinerItineraire() {
         // TODO implement here
     }
 

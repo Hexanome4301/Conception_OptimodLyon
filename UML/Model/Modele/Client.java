@@ -3,7 +3,7 @@ package Modele;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class Client {
 
@@ -16,6 +16,6 @@ public class Client {
     /**
      * 
      */
-    public void Integer Id;
+    private void Integer Id;
 
 }

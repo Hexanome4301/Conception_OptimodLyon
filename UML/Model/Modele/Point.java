@@ -3,7 +3,7 @@ package Modele;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class Point {
 
@@ -16,11 +16,11 @@ public class Point {
     /**
      * 
      */
-    public void Integer longitude;
+    private void Integer longitude;
 
     /**
      * 
      */
-    public void Integer latitude;
+    private void Integer latitude;
 
 }

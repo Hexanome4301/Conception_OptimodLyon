@@ -3,7 +3,7 @@ package Vue;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class VueTournee {
 
@@ -17,7 +17,7 @@ public class VueTournee {
     /**
      * 
      */
-    public void dessinerTournée() {
+    private void void dessinerTournée() {
         // TODO implement here
     }
 

@@ -3,7 +3,7 @@ package Modele;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
 public class Troncon {
 
@@ -16,27 +16,27 @@ public class Troncon {
     /**
      * 
      */
-    public void Double vitesse;
+    private void Double vitesse;
 
     /**
      * 
      */
-    public void Double distance;
+    private void Double distance;
 
     /**
      * 
      */
-    public void String nomRue;
+    private void String nomRue;
 
     /**
      * 
      */
-    public void Point origine;
+    private void Point origine;
 
     /**
      * 
      */
-    public void Point destination;
+    private void Point destination;
 
 
 

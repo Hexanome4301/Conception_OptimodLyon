@@ -3,9 +3,9 @@ package Vue;
 import java.util.*;
 
 /**
- * 
+ * @author Hexanome 4301
  */
-public class VueReseau {
+public class VueReseau extends Vue {
 
     /**
      * 
@@ -16,10 +16,18 @@ public class VueReseau {
 
 
 
+
     /**
      * 
      */
-    public void dessinerReseau() {
+    private void void dessinerReseau() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    public void void onClicPoint() {
         // TODO implement here
     }
 

@@ -23,6 +23,18 @@ public class Tournee {
      */
     private void List <PlageHoraire> plagesHoraires;
 
+    /**
+     * 
+     */
+    public void Entrepot entrepot;
+
+    /**
+     * 
+     */
+    public void Reseau reseau;
+
+
+
 
 
     /**
@@ -64,6 +76,13 @@ public class Tournee {
      * 
      */
     public void PlageHoraire getPlageHoraireByHeureDebut() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    public void chargerDonneesDemandeXML() {
         // TODO implement here
     }
 

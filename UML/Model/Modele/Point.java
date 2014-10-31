@@ -28,4 +28,20 @@ public class Point {
      */
     private void int adresse;
 
+    /**
+     * 
+     */
+    private void DemandeLivraison uneDemande;
+
+    /**
+     * 
+     */
+    public Set<Troncon> origine;
+
+    /**
+     * 
+     */
+    public Set<Troncon> destination;
+
+
 }

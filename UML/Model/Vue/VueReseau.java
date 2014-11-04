@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author Hexanome 4301
  */
-public class VueReseau extends Vue {
+public class VueReseau implements VueDessinable {
 
     /**
      * 
@@ -13,6 +13,15 @@ public class VueReseau extends Vue {
     public VueReseau() {
     }
 
+    /**
+     * 
+     */
+    public void List <VuePoint> vuesPoint;
+
+    /**
+     * 
+     */
+    public void List <Troncons> vuesTroncons;
 
 
 
@@ -20,14 +29,7 @@ public class VueReseau extends Vue {
     /**
      * 
      */
-    private void void dessinerReseau() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    public void void onClicPoint() {
+    private void void dessiner() {
         // TODO implement here
     }
 

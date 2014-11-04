@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author Hexanome 4301
  */
-public class VuePoint {
+public class VuePoint implements VueCliquable {
 
     /**
      * 
@@ -16,21 +16,17 @@ public class VuePoint {
     /**
      * 
      */
-    private void void dessinerPoint() {
-        // TODO implement here
-    }
+    public void double x;
 
     /**
      * 
      */
-    private void void colorierPoint() {
-        // TODO implement here
-    }
+    public void double y;
 
     /**
      * 
      */
-    private void void update() {
+    private void void dessiner() {
         // TODO implement here
     }
 

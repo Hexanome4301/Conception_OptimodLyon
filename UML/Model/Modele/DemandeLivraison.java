@@ -16,6 +16,24 @@ public class DemandeLivraison {
     /**
      * 
      */
-    public void PlageHoraire unePlageHoraire;
+    private void PointDeLivraison p;
+
+    /**
+     * 
+     */
+    private void Client cl;
+
+    /**
+     * 
+     */
+    private void PlageHoraire unePlageHoraire;
+
+    /**
+     * 
+     */
+    private void Bool confirmee;
+
+
+
 
 }

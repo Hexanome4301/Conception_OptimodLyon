@@ -16,7 +16,13 @@ public class VueItineraire {
     /**
      * 
      */
-    private void void dessinerItineraire() {
+    public void List <VueTroncon> vuesTroncon;
+
+
+    /**
+     * 
+     */
+    private void void dessiner() {
         // TODO implement here
     }
 

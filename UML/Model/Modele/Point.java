@@ -38,6 +38,12 @@ public class Point {
      */
     public void Reseau reseau;
 
+
+    /**
+     * 
+     */
+    public Reseau points;
+
     /**
      * 
      */
@@ -47,11 +53,5 @@ public class Point {
      * 
      */
     public Set<Troncon> destination;
-
-    /**
-     * 
-     */
-    public Reseau points;
-
 
 }

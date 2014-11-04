@@ -49,13 +49,6 @@ public class PlageHoraire {
     }
 
     /**
-     * 
-     */
-    public void void verifierDisponibilite() {
-        // TODO implement here
-    }
-
-    /**
      * @param int adresse
      */
     public void DemandeLivraison creerDemandeLivraison(void int adresse) {

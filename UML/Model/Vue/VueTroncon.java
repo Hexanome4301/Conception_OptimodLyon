@@ -16,7 +16,19 @@ public class VueTroncon {
     /**
      * 
      */
-    private void void dessinerTroncon() {
+    public void VuePoint origine;
+
+    /**
+     * 
+     */
+    public void VuePoint destination;
+
+
+
+    /**
+     * 
+     */
+    private void void dessiner() {
         // TODO implement here
     }
 

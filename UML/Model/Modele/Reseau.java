@@ -28,11 +28,11 @@ public class Reseau {
      */
     private Map<int>  points  = Point ;
 
-
     /**
      * 
      */
     public Point reseau;
+
 
     /**
      * 

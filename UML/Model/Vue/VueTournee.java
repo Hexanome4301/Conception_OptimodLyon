@@ -13,11 +13,16 @@ public class VueTournee {
     public VueTournee() {
     }
 
+    /**
+     * 
+     */
+    public void List <VueItineraire> vuesItineraire;
+
 
     /**
      * 
      */
-    private void void dessinerTournée() {
+    private void void dessiner() {
         // TODO implement here
     }
 

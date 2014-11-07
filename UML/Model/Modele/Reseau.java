@@ -16,12 +16,12 @@ public class Reseau {
     /**
      * 
      */
-    private void List <Troncon> troncons;
+    private List <Troncon> troncons ;
 
     /**
      * 
      */
-    private Map<int>  points  = Point ;
+    public Map points ;
 
     /**
      * 
@@ -37,10 +37,11 @@ public class Reseau {
     }
 
     /**
-     * 
+     * @return
      */
-    public void Point getPointViaAdresse() {
+    public Point getPointViaAdresse() {
         // TODO implement here
+        return null;
     }
 
 }

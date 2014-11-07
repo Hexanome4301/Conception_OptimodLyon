@@ -16,13 +16,13 @@ public class VueItineraire implements VueDessinable {
     /**
      * 
      */
-    public void List <VueTroncon> vuesTroncon;
+    public List <VueTroncon> vuesTroncon;
 
 
     /**
      * 
      */
-    private void void dessiner() {
+    private void dessiner() {
         // TODO implement here
     }
 

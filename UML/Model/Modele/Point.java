@@ -16,27 +16,27 @@ public class Point {
     /**
      * 
      */
-    private void Integer longitude;
+    private Integer longitude;
 
     /**
      * 
      */
-    private void Integer latitude;
+    private Integer latitude;
 
     /**
      * 
      */
-    private void int adresse;
+    private Integer adresse;
 
     /**
      * 
      */
-    private void DemandeLivraison uneDemande;
+    private DemandeLivraison uneDemande;
 
     /**
      * 
      */
-    public void Reseau reseau;
+    public Reseau reseau;
 
 
     /**

@@ -16,14 +16,15 @@ public class Itineraire {
     /**
      * 
      */
-    private void List <Troncon> troncons;
+    private List <Troncon> troncons;
 
 
     /**
-     * 
+     * @return
      */
-    private void bool ajouterTroncon() {
+    private Boolean ajouterTroncon() {
         // TODO implement here
+        return null;
     }
 
 }

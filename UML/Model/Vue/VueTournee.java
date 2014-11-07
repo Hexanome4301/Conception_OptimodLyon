@@ -16,13 +16,13 @@ public class VueTournee implements VueDessinable {
     /**
      * 
      */
-    public void List <VueItineraire> vuesItineraire;
+    public List <VueItineraire> vuesItineraire;
 
 
     /**
      * 
      */
-    private void void dessiner() {
+    private void dessiner() {
         // TODO implement here
     }
 

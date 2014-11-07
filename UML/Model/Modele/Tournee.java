@@ -16,67 +16,72 @@ public class Tournee {
     /**
      * 
      */
-    private void List <Itineraire> itineraires;
+    private List <Itineraire> itineraires;
 
     /**
      * 
      */
-    private void List <PlageHoraire> plagesHoraires;
+    private List <PlageHoraire> plagesHoraires;
 
     /**
      * 
      */
-    public void Entrepot entrepot;
+    public Entrepot entrepot;
 
     /**
      * 
      */
-    public void Reseau reseau;
+    public Reseau reseau;
 
 
 
 
 
     /**
-     * 
+     * @return
      */
-    private void bool ajouterItineraire() {
+    private Boolean ajouterItineraire() {
         // TODO implement here
+        return null;
+    }
+
+    /**
+     * @return
+     */
+    private Boolean supprimerItineraire() {
+        // TODO implement here
+        return null;
+    }
+
+    /**
+     * @return
+     */
+    private Boolean ajouterPlageHoraire() {
+        // TODO implement here
+        return null;
+    }
+
+    /**
+     * @return
+     */
+    private Boolean supprimerPlageHoraire() {
+        // TODO implement here
+        return null;
     }
 
     /**
      * 
      */
-    private void bool supprimerItineraire() {
+    private void calculerTournee() {
         // TODO implement here
     }
 
     /**
-     * 
+     * @return
      */
-    private void bool ajouterPlageHoraire() {
+    public PlageHoraire getPlageHoraireByHeureDebut() {
         // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    private void bool supprimerPlageHoraire() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    private void void calculerTournee() {
-        // TODO implement here
-    }
-
-    /**
-     * 
-     */
-    public void PlageHoraire getPlageHoraireByHeureDebut() {
-        // TODO implement here
+        return null;
     }
 
     /**

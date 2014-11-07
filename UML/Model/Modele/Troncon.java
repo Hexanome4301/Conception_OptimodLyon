@@ -16,27 +16,27 @@ public class Troncon {
     /**
      * 
      */
-    private void Double vitesse;
+    private Double vitesse;
 
     /**
      * 
      */
-    private void Double distance;
+    private Double distance;
 
     /**
      * 
      */
-    private void String nomRue;
+    private String nomRue;
 
     /**
      * 
      */
-    private void Point origine;
+    private Point origine;
 
     /**
      * 
      */
-    private void Point destination;
+    private Point destination;
 
 
 

@@ -16,17 +16,17 @@ public class VuePoint implements VueCliquable, VueDessinable {
     /**
      * 
      */
-    public void double x;
+    public Double x;
 
     /**
      * 
      */
-    public void double y;
+    public Double y;
 
     /**
      * 
      */
-    private void void dessiner() {
+    private void dessiner() {
         // TODO implement here
     }
 

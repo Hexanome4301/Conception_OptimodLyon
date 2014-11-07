@@ -16,19 +16,19 @@ public class VueTroncon implements VueDessinable {
     /**
      * 
      */
-    public void VuePoint origine;
+    public VuePoint origine;
 
     /**
      * 
      */
-    public void VuePoint destination;
+    public VuePoint destination;
 
 
 
     /**
      * 
      */
-    private void void dessiner() {
+    private void dessiner() {
         // TODO implement here
     }
 

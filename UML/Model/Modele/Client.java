@@ -16,6 +16,6 @@ public class Client {
     /**
      * 
      */
-    private void Integer Id;
+    private Integer Id;
 
 }

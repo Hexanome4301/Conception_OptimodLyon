@@ -16,17 +16,17 @@ public class VueReseau implements VueDessinable {
     /**
      * 
      */
-    public void List <VuePoint> vuesPoint;
+    public List <VuePoint>  vuesPoint;
 
     /**
      * 
      */
-    public void List <Troncons> vuesTroncons;
+    public List <Troncons>  vuesTroncons;
 
     /**
      * 
      */
-    public void VueTournee vueTournee;
+    public VueTournee vueTournee;
 
 
 
@@ -34,7 +34,7 @@ public class VueReseau implements VueDessinable {
     /**
      * 
      */
-    private void void dessiner() {
+    private void dessiner() {
         // TODO implement here
     }
 

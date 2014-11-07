@@ -16,43 +16,47 @@ public class PlageHoraire {
     /**
      * 
      */
-    private void Calendar debut;
+    private Calendar debut;
 
     /**
      * 
      */
-    private void Calendar fin;
+    private Calendar fin;
 
     /**
      * 
      */
-    private void List <DemandeLivraison> demandeLivraison;
+    private List <DemandeLivraison> demandeLivraison;
 
     /**
      * 
      */
-    private void bool dispo;
+    private Boolean dispo;
 
 
     /**
-     * 
+     * @return
      */
-    private void bool ajouterDemandeLivraison() {
+    private Boolean ajouterDemandeLivraison() {
         // TODO implement here
+        return null;
     }
 
     /**
-     * 
+     * @return
      */
-    private void bool supprimerDemandeLivraison() {
+    private Boolean supprimerDemandeLivraison() {
         // TODO implement here
+        return null;
     }
 
     /**
-     * @param int adresse
+     * @param int adresse 
+     * @return
      */
-    public void DemandeLivraison creerDemandeLivraison(void int adresse) {
+    public DemandeLivraison creerDemandeLivraison(void int adresse) {
         // TODO implement here
+        return null;
     }
 
 }

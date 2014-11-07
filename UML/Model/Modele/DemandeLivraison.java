@@ -16,12 +16,12 @@ public class DemandeLivraison {
     /**
      * 
      */
-    private PointDeLivraison p;
+    private PointDeLivraison pointDeLivraison;
 
     /**
      * 
      */
-    private Client cl;
+    private Client client;
 
     /**
      * 
@@ -32,6 +32,11 @@ public class DemandeLivraison {
      * 
      */
     private Boolean confirmee;
+
+    /**
+     * 
+     */
+    public Integer id;
 
 
 

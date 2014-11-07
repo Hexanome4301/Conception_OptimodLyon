@@ -16,6 +16,6 @@ public class Client {
     /**
      * 
      */
-    private Integer Id;
+    private Integer id;
 
 }

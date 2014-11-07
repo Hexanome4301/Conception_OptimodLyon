@@ -20,10 +20,11 @@ public class VueItineraire implements VueDessinable {
 
 
     /**
-     * 
+     * @return
      */
-    private void dessiner() {
+    private Boolean dessiner() {
         // TODO implement here
+        return null;
     }
 
 }

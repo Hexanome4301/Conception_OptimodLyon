@@ -51,10 +51,10 @@ public class PlageHoraire {
     }
 
     /**
-     * @param int adresse 
+     * @param adresse 
      * @return
      */
-    public DemandeLivraison creerDemandeLivraison(void int adresse) {
+    public DemandeLivraison creerDemandeLivraison(Integer adresse) {
         // TODO implement here
         return null;
     }

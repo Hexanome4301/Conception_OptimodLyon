@@ -32,10 +32,19 @@ public class VueReseau implements VueDessinable {
 
 
     /**
-     * 
+     * @return
      */
-    private void dessiner() {
+    private Boolean dessiner() {
         // TODO implement here
+        return null;
+    }
+
+    /**
+     * @return
+     */
+    public Boolean initialiser() {
+        // TODO implement here
+        return null;
     }
 
 }

@@ -24,17 +24,19 @@ public class VuePoint implements VueCliquable, VueDessinable {
     public Double y;
 
     /**
-     * 
+     * @return
      */
-    private void dessiner() {
+    private Boolean dessiner() {
         // TODO implement here
+        return null;
     }
 
     /**
-     * 
+     * @return
      */
-    public void onClicPoint() {
+    public Boolean onClicPoint() {
         // TODO implement here
+        return null;
     }
 
 }

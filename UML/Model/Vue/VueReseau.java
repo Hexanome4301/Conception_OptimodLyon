@@ -23,6 +23,11 @@ public class VueReseau implements VueDessinable {
      */
     public void List <Troncons> vuesTroncons;
 
+    /**
+     * 
+     */
+    public void VueTournee vueTournee;
+
 
 
 

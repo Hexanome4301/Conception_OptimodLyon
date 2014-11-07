@@ -21,11 +21,6 @@ public class Reseau {
     /**
      * 
      */
-    private void Entrepot entrepot;
-
-    /**
-     * 
-     */
     private Map<int>  points  = Point ;
 
     /**

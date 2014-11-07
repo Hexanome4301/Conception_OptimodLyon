@@ -1,11 +1,11 @@
-package Vue;
+package vue;
 
 import java.util.*;
 
 /**
  * @author Hexanome 4301
  */
-public class VuePoint implements VueCliquable {
+public class VuePoint implements VueCliquable, VueDessinable {
 
     /**
      * 
@@ -27,6 +27,13 @@ public class VuePoint implements VueCliquable {
      * 
      */
     private void void dessiner() {
+        // TODO implement here
+    }
+
+    /**
+     * 
+     */
+    public void onClicPoint() {
         // TODO implement here
     }
 

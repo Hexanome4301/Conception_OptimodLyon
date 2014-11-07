@@ -1,11 +1,11 @@
-package Vue;
+package vue;
 
 import java.util.*;
 
 /**
  * @author Hexanome 4301
  */
-public class VueItineraire {
+public class VueItineraire implements VueDessinable {
 
     /**
      * 

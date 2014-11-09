@@ -1,4 +1,7 @@
-Livraison4IF
+OptimodLyon
 ============
 
-Projet DevOO et IHM en 4IF.
+Dépôt contenant uniquement la partie conception du projet DeVOO en 4IF
+
+
+
